@@ -1,0 +1,5 @@
+{
+  "name": "Chef's Recipe Builder",
+  "description": "A mobile-first application for chefs to quickly build and manage recipe guidelines, ingredients, and weightings during cooking.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "m1",
+    "petpooja_id": "1302334557",
+    "name": "Spring Roll Veg [o] (Half)",
+    "category": "Starter [O]",
+    "variation": "Half",
+    "online_display_name": "Veg Spring Roll",
+    "item_type": "variation",
+    "price": 179,
+    "description": "Crispy veg roll with a deliciously spiced vegetable filling.",
+    "dietary": "veg",
+    "short_code": "",
+    "portion_percentage": 50,
+    "created_at": "2026-03-25T08:01:12.469Z"
+  },
+  {
+    "id": "m2",
+    "petpooja_id": "1302334558",
+    "name": "Spring Roll Veg [o] (Full)",
+    "category": "Starter [O]",
+    "variation": "Full",
+    "online_display_name": "Veg Spring Roll",
+    "item_type": "variation",
+    "price": 289,
+    "description": "Crispy veg roll with a deliciously spiced vegetable filling.",
+    "dietary": "veg",
+    "short_code": "",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.471Z"
+  },
+  {
+    "id": "m3",
+    "petpooja_id": "1302334493",
+    "name": "Kurkure Spring Roll Veg [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Veg Kurkure Spring Roll",
+    "item_type": "item",
+    "price": 0,
+    "description": "Delightfully crispy roll loaded with seasoned veggies and served with chilli dip.",
+    "dietary": "veg",
+    "short_code": "4[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.471Z",
+    "variations": [
+      {
+        "id": "m4",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334559"
+      },
+      {
+        "id": "m5",
+        "name": "Full",
+        "price": 329,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334560"
+      }
+    ]
+  },
+  {
+    "id": "m6",
+    "petpooja_id": "1302334494",
+    "name": "Chilly Paneer [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Chilli Paneer",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "7[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.471Z",
+    "variations": [
+      {
+        "id": "m7",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334561"
+      },
+      {
+        "id": "m8",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334562"
+      }
+    ]
+  },
+  {
+    "id": "m9",
+    "petpooja_id": "1302334495",
+    "name": "Chilly Chicken [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Chilli Chicken",
+    "item_type": "item",
+    "price": 0,
+    "description": "Classic Indo Chinese chicken dish tossed with onion, capsicum and spicy sauce.",
+    "dietary": "non-veg",
+    "short_code": "10[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.471Z",
+    "variations": [
+      {
+        "id": "m10",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334563"
+      },
+      {
+        "id": "m11",
+        "name": "Full",
+        "price": 319,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334564"
+      }
+    ]
+  },
+  {
+    "id": "m12",
+    "petpooja_id": "1302334496",
+    "name": "Chilly Mushroom [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Chilli Mushroom",
+    "item_type": "item",
+    "price": 0,
+    "description": "Mushroom pieces tossed in tangy and spicy sauce with vegetables.",
+    "dietary": "veg",
+    "short_code": "13[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.471Z",
+    "variations": [
+      {
+        "id": "m13",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334565"
+      },
+      {
+        "id": "m14",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334566"
+      }
+    ]
+  },
+  {
+    "id": "m15",
+    "petpooja_id": "1302334497",
+    "name": "Manchurian Veg [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Veg Manchurian",
+    "item_type": "item",
+    "price": 0,
+    "description": "Deep fried vegetable balls cooked in rich manchurian sauce.",
+    "dietary": "veg",
+    "short_code": "16[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.471Z",
+    "variations": [
+      {
+        "id": "m16",
+        "name": "Half",
+        "price": 189,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334567"
+      },
+      {
+        "id": "m17",
+        "name": "Full",
+        "price": 259,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334568"
+      }
+    ]
+  },
+  {
+    "id": "m18",
+    "petpooja_id": "1302334498",
+    "name": "Honey Chilly Patoto [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Honey Chilli Potato",
+    "item_type": "item",
+    "price": 0,
+    "description": "Crispy potato fingers coated with honey and chilli glaze.",
+    "dietary": "veg",
+    "short_code": "19[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.471Z",
+    "variations": [
+      {
+        "id": "m19",
+        "name": "Half",
+        "price": 179,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334569"
+      },
+      {
+        "id": "m20",
+        "name": "Full",
+        "price": 259,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334570"
+      }
+    ]
+  },
+  {
+    "id": "m21",
+    "petpooja_id": "1302334499",
+    "name": "Crispy Chilly Patoto [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Crispy Chilli Potato",
+    "item_type": "item",
+    "price": 0,
+    "description": "Deep fried potato tossed in spicy chilli sauce.",
+    "dietary": "veg",
+    "short_code": "22[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m22",
+        "name": "Half",
+        "price": 179,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334571"
+      },
+      {
+        "id": "m23",
+        "name": "Full",
+        "price": 259,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334572"
+      }
+    ]
+  },
+  {
+    "id": "m24",
+    "petpooja_id": "1302334500",
+    "name": "Peri Peri Fries [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Peri Peri French Fries",
+    "item_type": "item",
+    "price": 0,
+    "description": "Crispy fries dusted with tangy and spicy peri peri masala.",
+    "dietary": "veg",
+    "short_code": "25[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m25",
+        "name": "Half",
+        "price": 159,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334573"
+      },
+      {
+        "id": "m26",
+        "name": "Full",
+        "price": 239,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334574"
+      }
+    ]
+  },
+  {
+    "id": "m27",
+    "petpooja_id": "1302334501",
+    "name": "Crispy Peper Corn [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Crispy Peper Corn",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "28[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m28",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334575"
+      },
+      {
+        "id": "m29",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334576"
+      }
+    ]
+  },
+  {
+    "id": "m30",
+    "petpooja_id": "1302334502",
+    "name": "Drums Of Heaven [o]",
+    "category": "Starter [O]",
+    "variation": "",
+    "online_display_name": "Drums of Heaven",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "31[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m31",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334577"
+      },
+      {
+        "id": "m32",
+        "name": "Full",
+        "price": 359,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334578"
+      }
+    ]
+  },
+  {
+    "id": "m33",
+    "petpooja_id": "1302334503",
+    "name": "Veg Momo Steam [o]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Veg Momos",
+    "item_type": "item",
+    "price": 0,
+    "description": "Soft, flavorful momos packed with fresh mixed vegetables and authentic Himalayan spices.",
+    "dietary": "veg",
+    "short_code": "34[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m34",
+        "name": "Half",
+        "price": 149,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334580"
+      },
+      {
+        "id": "m35",
+        "name": "Full",
+        "price": 249,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334581"
+      }
+    ]
+  },
+  {
+    "id": "m36",
+    "petpooja_id": "1302334504",
+    "name": "Paneer Momo Steam [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Paneer Momo Steam",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "37[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m37",
+        "name": "Half",
+        "price": 179,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334582"
+      },
+      {
+        "id": "m38",
+        "name": "Full",
+        "price": 279,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334583"
+      }
+    ]
+  },
+  {
+    "id": "m39",
+    "petpooja_id": "1302334505",
+    "name": "Veg Fried Momo [o]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Veg Fried Momos",
+    "item_type": "item",
+    "price": 0,
+    "description": "Classic vegetable momos fried to golden perfection and served with tangy dip.",
+    "dietary": "veg",
+    "short_code": "40[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m40",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334584"
+      },
+      {
+        "id": "m41",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334585"
+      }
+    ]
+  },
+  {
+    "id": "m42",
+    "petpooja_id": "1302334506",
+    "name": "Chilli Momo Veg [o]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Veg Chilli Momos",
+    "item_type": "item",
+    "price": 0,
+    "description": "[Veg preparation] Spicy momos tossed with onion, capsicum and schezwan sauce.",
+    "dietary": "veg",
+    "short_code": "43[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m43",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334586"
+      },
+      {
+        "id": "m44",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334587"
+      }
+    ]
+  },
+  {
+    "id": "m45",
+    "petpooja_id": "1302334507",
+    "name": "Chilli Momo Paneer [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Chilli Momo Paneer",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "46[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m46",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334588"
+      },
+      {
+        "id": "m47",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334589"
+      }
+    ]
+  },
+  {
+    "id": "m48",
+    "petpooja_id": "1302334508",
+    "name": "Chilly Momo Chicken [o]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Chicken Chilli Momos",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "49[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m49",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334590"
+      },
+      {
+        "id": "m50",
+        "name": "Full",
+        "price": 339,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334591"
+      }
+    ]
+  },
+  {
+    "id": "m51",
+    "petpooja_id": "1302334509",
+    "name": "Chicken Momo Steam [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Chicken Momo Steam",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "52[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m52",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334592"
+      },
+      {
+        "id": "m53",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334593"
+      }
+    ]
+  },
+  {
+    "id": "m54",
+    "petpooja_id": "1302334510",
+    "name": "Fried Chicken Momo [o]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Chicken Fried Momos",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "55[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m55",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334594"
+      },
+      {
+        "id": "m56",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334595"
+      }
+    ]
+  },
+  {
+    "id": "m57",
+    "petpooja_id": "1302334511",
+    "name": "Paneer Fried Momo [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Paneer Fried Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "58[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m58",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334596"
+      },
+      {
+        "id": "m59",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334597"
+      }
+    ]
+  },
+  {
+    "id": "m60",
+    "petpooja_id": "1302334512",
+    "name": "Chicken Afghani Momo [o]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Chicken Afghani Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "61[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m61",
+        "name": "Half",
+        "price": 239,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334598"
+      },
+      {
+        "id": "m62",
+        "name": "Full",
+        "price": 349,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334599"
+      }
+    ]
+  },
+  {
+    "id": "m63",
+    "petpooja_id": "1302334513",
+    "name": "Paneer Afghani Momo [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Paneer Afghani Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "64[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m64",
+        "name": "Half",
+        "price": 239,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334600"
+      },
+      {
+        "id": "m65",
+        "name": "Full",
+        "price": 349,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334601"
+      }
+    ]
+  },
+  {
+    "id": "m66",
+    "petpooja_id": "1302334514",
+    "name": "Veg Kurkure Momo [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Veg Kurkure Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "67[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m67",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334602"
+      },
+      {
+        "id": "m68",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334603"
+      }
+    ]
+  },
+  {
+    "id": "m69",
+    "petpooja_id": "1302334515",
+    "name": "Chicken Kurkure Momo [o]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Chicken Kurkure Momos",
+    "item_type": "item",
+    "price": 0,
+    "description": "Crunchy, fried chicken momos with a crispy coating and juicy filling inside.",
+    "dietary": "non-veg",
+    "short_code": "70[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m70",
+        "name": "Half",
+        "price": 229,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334604"
+      },
+      {
+        "id": "m71",
+        "name": "Full",
+        "price": 329,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334605"
+      }
+    ]
+  },
+  {
+    "id": "m72",
+    "petpooja_id": "1302334516",
+    "name": "Paneer Kurkure Momo [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Paneer Kurkure Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "73[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m73",
+        "name": "Half",
+        "price": 229,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334606"
+      },
+      {
+        "id": "m74",
+        "name": "Full",
+        "price": 329,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334607"
+      }
+    ]
+  },
+  {
+    "id": "m75",
+    "petpooja_id": "1302334517",
+    "name": "Veg Tandoori Momo [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Veg Tandoori Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "76[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m76",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334608"
+      },
+      {
+        "id": "m77",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334609"
+      }
+    ]
+  },
+  {
+    "id": "m78",
+    "petpooja_id": "1302334518",
+    "name": "Chicken Tandoori Momo [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Chicken Tandoori Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "79[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m79",
+        "name": "Half",
+        "price": 239,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334610"
+      },
+      {
+        "id": "m80",
+        "name": "Full",
+        "price": 349,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334611"
+      }
+    ]
+  },
+  {
+    "id": "m81",
+    "petpooja_id": "1302334519",
+    "name": "Paneer Tandoori Momo [O]",
+    "category": "Momo [O]",
+    "variation": "",
+    "online_display_name": "Paneer Tandoori Momo",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "82[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m82",
+        "name": "Half",
+        "price": 239,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334612"
+      },
+      {
+        "id": "m83",
+        "name": "Full",
+        "price": 349,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334613"
+      }
+    ]
+  },
+  {
+    "id": "m84",
+    "petpooja_id": "1302334520",
+    "name": "Veg Hakka Noodle [o]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Veg Hakka Noodles",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "85[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.472Z",
+    "variations": [
+      {
+        "id": "m85",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334614"
+      },
+      {
+        "id": "m86",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334615"
+      }
+    ]
+  },
+  {
+    "id": "m87",
+    "petpooja_id": "1302334521",
+    "name": "Chilly Garlic Noodle [o]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Chilli Garlic Noodles",
+    "item_type": "item",
+    "price": 0,
+    "description": "Zesty noodles tossed in chilli garlic sauce with crunchy veggies.",
+    "dietary": "veg",
+    "short_code": "88[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m88",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334616"
+      },
+      {
+        "id": "m89",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334617"
+      }
+    ]
+  },
+  {
+    "id": "m90",
+    "petpooja_id": "1302334522",
+    "name": "Singapore Noodle Veg [o]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Veg Singapore Noodles",
+    "item_type": "item",
+    "price": 0,
+    "description": "[Veg preparation] Thin noodles stir fried with curry flavor and mixed vegetables.",
+    "dietary": "veg",
+    "short_code": "91[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m91",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334618"
+      },
+      {
+        "id": "m92",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334619"
+      }
+    ]
+  },
+  {
+    "id": "m93",
+    "petpooja_id": "1302334523",
+    "name": "Singapore Noodle Chicken [o]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Chicken Singapore Noodles",
+    "item_type": "item",
+    "price": 0,
+    "description": "Spicy, aromatic noodles cooked with chicken and Asian spices.",
+    "dietary": "non-veg",
+    "short_code": "94[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m94",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334620"
+      },
+      {
+        "id": "m95",
+        "name": "Full",
+        "price": 319,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334621"
+      }
+    ]
+  },
+  {
+    "id": "m96",
+    "petpooja_id": "1302334524",
+    "name": "Paneer Noodle [o]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Paneer Noodles",
+    "item_type": "item",
+    "price": 0,
+    "description": "Noodles tossed with soft paneer cubes and flavorful sauce.",
+    "dietary": "veg",
+    "short_code": "97[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m97",
+        "name": "Half",
+        "price": 239,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334622"
+      },
+      {
+        "id": "m98",
+        "name": "Full",
+        "price": 319,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334623"
+      }
+    ]
+  },
+  {
+    "id": "m99",
+    "petpooja_id": "1302334525",
+    "name": "Egg Noodle [o]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Egg Noodles",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "egg",
+    "short_code": "100[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m100",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334624"
+      },
+      {
+        "id": "m101",
+        "name": "Full",
+        "price": 319,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334625"
+      }
+    ]
+  },
+  {
+    "id": "m102",
+    "petpooja_id": "1302334526",
+    "name": "Chicken Noodle [O]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Chicken Noodle",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "103[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m103",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334626"
+      },
+      {
+        "id": "m104",
+        "name": "Full",
+        "price": 329,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334627"
+      }
+    ]
+  },
+  {
+    "id": "m105",
+    "petpooja_id": "1302334527",
+    "name": "Chicken Egg Noodle [O]",
+    "category": "Noodles [O]",
+    "variation": "",
+    "online_display_name": "Chicken Egg Noodle",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "106[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m106",
+        "name": "Half",
+        "price": 259,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334628"
+      },
+      {
+        "id": "m107",
+        "name": "Full",
+        "price": 349,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334629"
+      }
+    ]
+  },
+  {
+    "id": "m108",
+    "petpooja_id": "1302334528",
+    "name": "Veg Fried Rice [o]",
+    "category": "Rice [O]",
+    "variation": "",
+    "online_display_name": "Veg Fried Rice",
+    "item_type": "item",
+    "price": 0,
+    "description": "Classic fried rice with a mix of fresh veggies and soy seasoning.",
+    "dietary": "veg",
+    "short_code": "109[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m109",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334630"
+      },
+      {
+        "id": "m110",
+        "name": "Full",
+        "price": 349,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334631"
+      }
+    ]
+  },
+  {
+    "id": "m111",
+    "petpooja_id": "1302334529",
+    "name": "Schezwann Rice- Veg [o]",
+    "category": "Rice [O]",
+    "variation": "",
+    "online_display_name": "Schezwan Fried Rice",
+    "item_type": "item",
+    "price": 0,
+    "description": "[Veg preparation] Fiery schezwan style rice bursting with bold flavor.",
+    "dietary": "veg",
+    "short_code": "112[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m112",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334632"
+      },
+      {
+        "id": "m113",
+        "name": "Full",
+        "price": 349,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334633"
+      }
+    ]
+  },
+  {
+    "id": "m114",
+    "petpooja_id": "1302334530",
+    "name": "Schezwann Rice - Chicken [o]",
+    "category": "Rice [O]",
+    "variation": "",
+    "online_display_name": "4 Chicken Schezwan Fried Rice",
+    "item_type": "item",
+    "price": 0,
+    "description": "Spicy schezwan rice loaded with chicken and veggies.",
+    "dietary": "non-veg",
+    "short_code": "115[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m115",
+        "name": "Half",
+        "price": 269,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334634"
+      },
+      {
+        "id": "m116",
+        "name": "Full",
+        "price": 369,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334635"
+      }
+    ]
+  },
+  {
+    "id": "m117",
+    "petpooja_id": "1302334531",
+    "name": "Paneer Fried Rice [o]",
+    "category": "Rice [O]",
+    "variation": "",
+    "online_display_name": "Paneer Fried Rice",
+    "item_type": "item",
+    "price": 0,
+    "description": "Fragrant rice stir fried with paneer cubes and oriental spices.",
+    "dietary": "veg",
+    "short_code": "118[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m118",
+        "name": "Half",
+        "price": 259,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334636"
+      },
+      {
+        "id": "m119",
+        "name": "Full",
+        "price": 369,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334637"
+      }
+    ]
+  },
+  {
+    "id": "m120",
+    "petpooja_id": "1302334532",
+    "name": "Egg Fried Rice [o]",
+    "category": "Rice [O]",
+    "variation": "",
+    "online_display_name": "Egg Fried Rice",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "egg",
+    "short_code": "121[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m121",
+        "name": "Half",
+        "price": 259,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334638"
+      },
+      {
+        "id": "m122",
+        "name": "Full",
+        "price": 359,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334639"
+      }
+    ]
+  },
+  {
+    "id": "m123",
+    "petpooja_id": "1302334533",
+    "name": "Chicken Fired Rice [O]",
+    "category": "Rice [O]",
+    "variation": "",
+    "online_display_name": "Chicken Fired Rice",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "124[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m124",
+        "name": "Half",
+        "price": 279,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334640"
+      },
+      {
+        "id": "m125",
+        "name": "Full",
+        "price": 379,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334641"
+      }
+    ]
+  },
+  {
+    "id": "m126",
+    "petpooja_id": "1302334534",
+    "name": "Chicken Egg Rice [O]",
+    "category": "Rice [O]",
+    "variation": "",
+    "online_display_name": "Chicken Egg Rice",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "127[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m127",
+        "name": "Half",
+        "price": 289,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334642"
+      },
+      {
+        "id": "m128",
+        "name": "Full",
+        "price": 389,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334643"
+      }
+    ]
+  },
+  {
+    "id": "m129",
+    "petpooja_id": "1302334535",
+    "name": "Masala Chaap [O]",
+    "category": "Chaap [O]",
+    "variation": "",
+    "online_display_name": "Masala Chaap",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "130[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m130",
+        "name": "Half",
+        "price": 179,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334644"
+      },
+      {
+        "id": "m131",
+        "name": "Full",
+        "price": 279,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334645"
+      }
+    ]
+  },
+  {
+    "id": "m132",
+    "petpooja_id": "1302334536",
+    "name": "Malai Chaap [O]",
+    "category": "Chaap [O]",
+    "variation": "",
+    "online_display_name": "Malai Chaap",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "133[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m133",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334646"
+      },
+      {
+        "id": "m134",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334647"
+      }
+    ]
+  },
+  {
+    "id": "m135",
+    "petpooja_id": "1302334537",
+    "name": "Tandoori Chaap [O]",
+    "category": "Chaap [O]",
+    "variation": "",
+    "online_display_name": "Tandoori Chaap",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "136[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m136",
+        "name": "Half",
+        "price": 179,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334648"
+      },
+      {
+        "id": "m137",
+        "name": "Full",
+        "price": 279,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334649"
+      }
+    ]
+  },
+  {
+    "id": "m138",
+    "petpooja_id": "1302334538",
+    "name": "Afghani Chaap [O]",
+    "category": "Chaap [O]",
+    "variation": "",
+    "online_display_name": "Afghani Chaap",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "139[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m139",
+        "name": "Half",
+        "price": 199,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334650"
+      },
+      {
+        "id": "m140",
+        "name": "Full",
+        "price": 299,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334651"
+      }
+    ]
+  },
+  {
+    "id": "m141",
+    "petpooja_id": "1302334539",
+    "name": "Kurkure Chaap [O]",
+    "category": "Chaap [O]",
+    "variation": "",
+    "online_display_name": "Kurkure Chaap",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "142[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m142",
+        "name": "Half",
+        "price": 179,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334652"
+      },
+      {
+        "id": "m143",
+        "name": "Full",
+        "price": 279,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334653"
+      }
+    ]
+  },
+  {
+    "id": "m144",
+    "petpooja_id": "1302334540",
+    "name": "Veg Sweetcorn Soup [O]",
+    "category": "Soup [O]",
+    "variation": "",
+    "online_display_name": "Veg Sweetcorn Soup",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "145[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.473Z",
+    "variations": [
+      {
+        "id": "m145",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334654"
+      },
+      {
+        "id": "m146",
+        "name": "Full",
+        "price": 219,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334655"
+      }
+    ]
+  },
+  {
+    "id": "m147",
+    "petpooja_id": "1302334541",
+    "name": "Hot & Sour Soup [o]",
+    "category": "Soup [O]",
+    "variation": "",
+    "online_display_name": "Hot and Sour Soup",
+    "item_type": "item",
+    "price": 0,
+    "description": "A perfect balance of tangy, spicy flavor with vegetables and soy.",
+    "dietary": "veg",
+    "short_code": "148[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m148",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334656"
+      },
+      {
+        "id": "m149",
+        "name": "Full",
+        "price": 219,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334657"
+      }
+    ]
+  },
+  {
+    "id": "m150",
+    "petpooja_id": "1302334542",
+    "name": "Manchow Soup [o]",
+    "category": "Soup [O]",
+    "variation": "",
+    "online_display_name": "Veg Manchow Soup",
+    "item_type": "item",
+    "price": 0,
+    "description": "Thick, spicy soup with minced vegetables and served with crunchy noodles.",
+    "dietary": "veg",
+    "short_code": "151[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m151",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334658"
+      },
+      {
+        "id": "m152",
+        "name": "Full",
+        "price": 219,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334659"
+      }
+    ]
+  },
+  {
+    "id": "m153",
+    "petpooja_id": "1302334543",
+    "name": "Noodle Soup [o]",
+    "category": "Soup [O]",
+    "variation": "",
+    "online_display_name": "Veg Noodles Soup",
+    "item_type": "item",
+    "price": 0,
+    "description": "A hearty noodles based soup loaded with vegetables and Asian spices.",
+    "dietary": "veg",
+    "short_code": "154[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m154",
+        "name": "Half",
+        "price": 219,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334660"
+      },
+      {
+        "id": "m155",
+        "name": "Full",
+        "price": 219,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334661"
+      }
+    ]
+  },
+  {
+    "id": "m156",
+    "petpooja_id": "1302334544",
+    "name": "Veg White Sauce Pasta [o]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Veg White Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "157[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m157",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334662"
+      },
+      {
+        "id": "m158",
+        "name": "Full",
+        "price": 369,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334663"
+      }
+    ]
+  },
+  {
+    "id": "m159",
+    "petpooja_id": "1302334545",
+    "name": "Chicken White Sauce Pasta [O]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Chicken White Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "160[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m160",
+        "name": "Half",
+        "price": 289,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334664"
+      },
+      {
+        "id": "m161",
+        "name": "Full",
+        "price": 389,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334665"
+      }
+    ]
+  },
+  {
+    "id": "m162",
+    "petpooja_id": "1302334546",
+    "name": "Veg Red Sause Pasta [o]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Veg Red Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "Tangy tomato based pasta tossed with herbs and vegetables.",
+    "dietary": "veg",
+    "short_code": "163[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m163",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334666"
+      },
+      {
+        "id": "m164",
+        "name": "Full",
+        "price": 369,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334667"
+      }
+    ]
+  },
+  {
+    "id": "m165",
+    "petpooja_id": "1302334547",
+    "name": "Chicken Red Sause Pasta [o]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Chicken Red Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "Juicy chicken pieces cooked in spicy and tangy red sauce.",
+    "dietary": "non-veg",
+    "short_code": "166[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m166",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334668"
+      },
+      {
+        "id": "m167",
+        "name": "Full",
+        "price": 389,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334669"
+      }
+    ]
+  },
+  {
+    "id": "m168",
+    "petpooja_id": "1302334548",
+    "name": "Veg Mix Sauce Pasta [o]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Veg Mixed Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "A perfect fusion of red, white sauce and blended with vegetables.",
+    "dietary": "veg",
+    "short_code": "169[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m169",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334670"
+      },
+      {
+        "id": "m170",
+        "name": "Full",
+        "price": 369,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334671"
+      }
+    ]
+  },
+  {
+    "id": "m171",
+    "petpooja_id": "1302334549",
+    "name": "Chicken Mix Sauce Pasta [o]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Chicken Mixed Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "A delightful mix of spicy red and creamy white sauce with chicken.",
+    "dietary": "non-veg",
+    "short_code": "172[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m172",
+        "name": "Half",
+        "price": 289,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334672"
+      },
+      {
+        "id": "m173",
+        "name": "Full",
+        "price": 389,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334673"
+      }
+    ]
+  },
+  {
+    "id": "m174",
+    "petpooja_id": "1302334550",
+    "name": "Veg Mushroom Sauce Pasta [O]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Veg Mushroom Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "175[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m175",
+        "name": "Half",
+        "price": 249,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334674"
+      },
+      {
+        "id": "m176",
+        "name": "Full",
+        "price": 369,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334675"
+      }
+    ]
+  },
+  {
+    "id": "m177",
+    "petpooja_id": "1302334551",
+    "name": "Chicken Sauce Pasta [O]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Chicken Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "178[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m178",
+        "name": "Half",
+        "price": 289,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334676"
+      },
+      {
+        "id": "m179",
+        "name": "Full",
+        "price": 389,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334677"
+      }
+    ]
+  },
+  {
+    "id": "m180",
+    "petpooja_id": "1302334552",
+    "name": "Mushroom Sauce Pasta [O]",
+    "category": "Continental [O]",
+    "variation": "",
+    "online_display_name": "Mushroom Sauce Pasta",
+    "item_type": "item",
+    "price": 0,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "181[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": [
+      {
+        "id": "m181",
+        "name": "Half",
+        "price": 289,
+        "portion_percentage": 50,
+        "petpooja_id": "1302334678"
+      },
+      {
+        "id": "m182",
+        "name": "Full",
+        "price": 389,
+        "portion_percentage": 100,
+        "petpooja_id": "1302334679"
+      }
+    ]
+  },
+  {
+    "id": "m183",
+    "petpooja_id": "1302334553",
+    "name": "Chicken Thukpa [o]",
+    "category": "Thukpa [O]",
+    "variation": "",
+    "online_display_name": "Chicken Thukpa",
+    "item_type": "item",
+    "price": 249,
+    "description": "",
+    "dietary": "non-veg",
+    "short_code": "184[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": []
+  },
+  {
+    "id": "m184",
+    "petpooja_id": "1302334554",
+    "name": "Veg Thukpa [O]",
+    "category": "Thukpa [O]",
+    "variation": "",
+    "online_display_name": "Veg Thukpa",
+    "item_type": "item",
+    "price": 199,
+    "description": "",
+    "dietary": "veg",
+    "short_code": "185[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": []
+  },
+  {
+    "id": "m185",
+    "petpooja_id": "1302334555",
+    "name": "Paneer Thukpa [o]",
+    "category": "Thukpa [O]",
+    "variation": "",
+    "online_display_name": "Paneer Thukpa",
+    "item_type": "item",
+    "price": 219,
+    "description": "A comforting noodles soup infused with paneer cubes and light spices.",
+    "dietary": "veg",
+    "short_code": "186[O]",
+    "portion_percentage": 100,
+    "created_at": "2026-03-25T08:01:12.474Z",
+    "variations": []
+  }
+]
