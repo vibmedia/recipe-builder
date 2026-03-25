@@ -131,17 +131,17 @@ export const Categories = () => {
           <table className="w-full text-left border-collapse">
             <thead>
               <tr className="bg-gray-50 text-gray-600 text-sm uppercase tracking-wider">
-                <th className="p-4 border-b font-medium">Name</th>
-                <th className="p-4 border-b font-medium">Description</th>
-                <th className="p-4 border-b font-medium">Actions</th>
+                <th className="px-3 py-3 sm:p-4 border-b font-medium">Name</th>
+                <th className="px-3 py-3 sm:p-4 border-b font-medium">Description</th>
+                <th className="px-3 py-3 sm:p-4 border-b font-medium">Actions</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-200">
               {filteredCategories.map((category) => (
                 <tr key={category.id} className="hover:bg-gray-50">
-                  <td className="p-4 font-medium text-gray-900">{category.name}</td>
-                  <td className="p-4 text-gray-600">{category.description || '-'}</td>
-                  <td className="p-4">
+                  <td className="px-3 py-3 sm:p-4 font-medium text-gray-900">{category.name}</td>
+                  <td className="px-3 py-3 sm:p-4 text-gray-600">{category.description || '-'}</td>
+                  <td className="px-3 py-3 sm:p-4">
                     <div className="flex gap-2">
                       <button 
                         onClick={() => handleEdit(category)}
@@ -163,7 +163,7 @@ export const Categories = () => {
               ))}
               {filteredCategories.length === 0 && (
                 <tr>
-                  <td colSpan={3} className="p-8 text-center text-gray-500">
+                  <td colSpan={3} className="px-3 py-6 sm:p-8 text-center text-gray-500">
                     No categories found.
                   </td>
                 </tr>

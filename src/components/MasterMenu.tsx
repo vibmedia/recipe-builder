@@ -261,15 +261,15 @@ export function MasterMenu() {
         />
       </div>
 
-      <div className="bg-white rounded-xl border border-gray-200 overflow-hidden shadow-sm">
+      <div className="bg-white rounded-xl border border-gray-200 overflow-x-auto shadow-sm">
         <table className="min-w-full divide-y divide-gray-200">
           <thead className="bg-gray-50">
             <tr>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name / Variation</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Category</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Dietary</th>
-              <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+              <th className="px-3 py-3 sm:px-6 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name / Variation</th>
+              <th className="px-3 py-3 sm:px-6 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Category</th>
+              <th className="px-3 py-3 sm:px-6 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+              <th className="px-3 py-3 sm:px-6 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Dietary</th>
+              <th className="px-3 py-3 sm:px-6 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
             </tr>
           </thead>
           <tbody className="bg-white divide-y divide-gray-200">
@@ -277,7 +277,7 @@ export function MasterMenu() {
               
               return (
               <tr key={item.id} className="hover:bg-gray-50">
-                <td className="px-6 py-4 whitespace-nowrap">
+                <td className="px-3 py-3 sm:px-6 sm:py-4 whitespace-nowrap">
                   <div className="flex flex-col">
                     <span className="text-sm font-medium text-gray-900">{item.name}</span>
                     {item.item_type === 'variation' && (
@@ -290,15 +290,15 @@ export function MasterMenu() {
                     )}
                   </div>
                 </td>
-                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                <td className="px-3 py-3 sm:px-6 sm:py-4 whitespace-nowrap text-sm text-gray-500">
                   <span className="px-2 py-1 bg-gray-100 rounded-full text-xs">{item.category}</span>
                 </td>
-                <td className="px-6 py-4 whitespace-nowrap">
+                <td className="px-3 py-3 sm:px-6 sm:py-4 whitespace-nowrap">
                   <div className="flex flex-col">
                     <span className="text-sm text-gray-700">₹{item.price}</span>
                   </div>
                 </td>
-                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                <td className="px-3 py-3 sm:px-6 sm:py-4 whitespace-nowrap text-sm text-gray-500">
                   <span className={`px-2 py-1 rounded-full text-xs ${
                     item.dietary === 'veg' ? 'bg-green-100 text-green-800' : 
                     item.dietary === 'non-veg' ? 'bg-red-100 text-red-800' : 
@@ -307,7 +307,7 @@ export function MasterMenu() {
                     {item.dietary}
                   </span>
                 </td>
-                <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                <td className="px-3 py-3 sm:px-6 sm:py-4 whitespace-nowrap text-right text-sm font-medium">
                   <div className="flex justify-end gap-2">
                     <button 
                       onClick={() => setSelectedItem(item.id)}
@@ -336,7 +336,7 @@ export function MasterMenu() {
             )})}
             {filteredItems.length === 0 && (
               <tr>
-                <td colSpan={5} className="px-6 py-8 text-center text-gray-500">
+                <td colSpan={5} className="px-3 py-6 sm:px-6 sm:py-8 text-center text-gray-500">
                   No items found.
                 </td>
               </tr>
